@@ -1,0 +1,332 @@
+/* Remove gradient backgrounds and use solid colors */
+
+body,
+.kyc-bg {
+  min-height: 100vh;
+  background: #f3f4f6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.kyc-container {
+  background: #fff;
+  border-radius: 22px;
+  box-shadow: 0 8px 32px rgba(80, 80, 180, 0.10), 0 1.5px 8px rgba(0,0,0,0.04);
+  padding: 38px 32px 32px 32px;
+  max-width: 430px;
+  width: 100%;
+  margin-top: 48px;
+  margin-bottom: 32px;
+  animation: fadeIn 0.7s;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(30px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+.kyc-title {
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 800;
+  color: #3b3b6d;
+  margin-bottom: 30px;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 8px #e0e7ff;
+}
+
+.kyc-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.kyc-label {
+  font-weight: 500;
+  color: #4b5563;
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.kyc-input[type="file"] {
+  margin-top: 8px;
+  padding: 8px 0;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  background: #f3f4f6;
+  color: #6366f1;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  box-shadow: 0 1px 4px #e0e7ff;
+  width: 100%;
+}
+
+.kyc-input[type="file"]::-webkit-file-upload-button {
+  background: #6366f1;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.18s, transform 0.12s;
+  box-shadow: 0 2px 8px #e0e7ff;
+  margin-right: 12px;
+}
+
+.kyc-input[type="file"]::-webkit-file-upload-button:hover,
+.kyc-input[type="file"]::-webkit-file-upload-button:focus {
+  background: #818cf8;
+  transform: translateY(-2px) scale(1.03);
+}
+
+.kyc-input[type="file"]:focus {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+}
+
+.kyc-btn {
+  background: #6366f1;
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  border-radius: 10px;
+  padding: 13px 10px;
+  font-size: 1.08rem;
+  cursor: pointer;
+  transition: background 0.18s, transform 0.12s;
+  box-shadow: 0 2px 8px #e0e7ff;
+}
+
+.kyc-btn:hover, .kyc-btn:focus {
+  background: #818cf8;
+  transform: translateY(-2px) scale(1.03);
+}
+
+.kyc-section {
+  margin-top: 32px;
+}
+
+.kyc-subtitle {
+  font-size: 1.18rem;
+  font-weight: 600;
+  color: #4f46e5;
+  margin-bottom: 10px;
+  letter-spacing: 0.2px;
+}
+
+.kyc-details {
+  background: #f3f4f6;
+  border-radius: 12px;
+  padding: 18px 16px;
+  box-shadow: 0 1px 4px #e0e7ff;
+}
+
+.kyc-detail-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 7px 0;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.kyc-detail-row:last-child {
+  border-bottom: none;
+}
+
+.kyc-detail-key {
+  color: #6366f1;
+  font-weight: 500;
+}
+
+.kyc-detail-value {
+  color: #3b3b6d;
+}
+
+.kyc-result {
+  border-radius: 12px;
+  padding: 18px 16px;
+  font-size: 1.08rem;
+  font-weight: 700;
+  margin-top: 8px;
+  text-align: center;
+  box-shadow: 0 1px 4px #e0e7ff;
+}
+
+.kyc-result-pass {
+  background: #e0f7ef;
+  color: #059669;
+  border: 1.5px solid #6ee7b7;
+}
+
+.kyc-result-fail {
+  background: #fef2f2;
+  color: #dc2626;
+  border: 1.5px solid #fecaca;
+}
+
+.kyc-footer {
+  margin-top: 36px;
+  color: #a0aec0;
+  font-size: 1.01rem;
+  text-align: center;
+  letter-spacing: 0.1px;
+  padding-bottom: 18px;
+}
+
+@media (max-width: 600px) {
+  .kyc-container {
+    padding: 18px 4vw 18px 4vw;
+    max-width: 98vw;
+  }
+  .kyc-title {
+    font-size: 1.5rem;
+  }
+}
+
+.kyc-bg {
+  transition: background 0.4s;
+}
+
+.kyc-container,
+.kyc-details,
+.kyc-result,
+.kyc-btn,
+.kyc-input[type="file"] {
+  transition: background 0.4s, color 0.4s, border 0.4s;
+}
+
+/* Dark mode styles */
+.kyc-bg.dark {
+  background: #181824;
+}
+
+.kyc-bg.dark .kyc-container {
+  background: #232946;
+  box-shadow: 0 8px 32px rgba(30, 30, 60, 0.18), 0 1.5px 8px rgba(0,0,0,0.09);
+}
+
+.kyc-bg.dark .kyc-title {
+  color: #eebbc3;
+  text-shadow: 0 2px 8px #232946;
+}
+
+.kyc-bg.dark .kyc-label {
+  color: #b8c1ec;
+}
+
+.kyc-bg.dark .kyc-details {
+  background: #282a36;
+  box-shadow: 0 1px 4px #232946;
+}
+
+.kyc-bg.dark .kyc-detail-key {
+  color: #eebbc3;
+}
+
+.kyc-bg.dark .kyc-detail-value {
+  color: #b8c1ec;
+}
+
+.kyc-bg.dark .kyc-result-pass {
+  background: #233d2b;
+  color: #6ee7b7;
+  border: 1.5px solid #6ee7b7;
+}
+
+.kyc-bg.dark .kyc-result-fail {
+  background: #3a1a1a;
+  color: #fca5a5;
+  border: 1.5px solid #fca5a5;
+}
+
+.kyc-bg.dark .kyc-btn {
+  background: #232946;
+  color: #eebbc3;
+  box-shadow: 0 2px 8px #232946;
+}
+
+.kyc-bg.dark .kyc-btn:hover,
+.kyc-bg.dark .kyc-btn:focus {
+  background: #b8c1ec;
+  color: #232946;
+}
+
+.kyc-bg.dark .kyc-footer {
+  color: #b8c1ec;
+}
+
+.kyc-bg.dark .kyc-subtitle {
+  color: #eebbc3;
+}
+
+.kyc-bg.dark .kyc-input[type="file"] {
+  background: #232946;
+  color: #eebbc3;
+  border: 1.5px solid #b8c1ec;
+}
+
+.kyc-bg.dark .kyc-input[type="file"]:focus {
+  outline: 2px solid #eebbc3;
+}
+
+.kyc-bg.dark .kyc-input[type="file"]::-webkit-file-upload-button {
+  background: #b8c1ec;
+  color: #232946;
+}
+
+.kyc-bg.dark .kyc-input[type="file"]::-webkit-file-upload-button:hover,
+.kyc-bg.dark .kyc-input[type="file"]::-webkit-file-upload-button:focus {
+  background: #232946;
+  color: #eebbc3;
+}
+
+/* Toggle button */
+.dark-toggle-btn {
+  position: fixed;
+  top: 22px;
+  right: 32px;
+  z-index: 100;
+  background: #fff;
+  color: #6366f1;
+  border: none;
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  font-size: 1.5rem;
+  box-shadow: 0 2px 8px #e0e7ff;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s, box-shadow 0.3s, transform 0.2s;
+  outline: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dark-toggle-btn:hover,
+.dark-toggle-btn:focus {
+  background: #6366f1;
+  color: #fff;
+  box-shadow: 0 4px 16px #6366f1;
+  transform: scale(1.08);
+}
+
+.kyc-bg.dark .dark-toggle-btn {
+  background: #232946;
+  color: #eebbc3;
+  box-shadow: 0 2px 8px #232946;
+}
+
+.kyc-bg.dark .dark-toggle-btn:hover,
+.kyc-bg.dark .dark-toggle-btn:focus {
+  background: #eebbc3;
+  color: #232946;
+  box-shadow: 0 4px 16px #eebbc3;
+}

@@ -1,0 +1,501 @@
+avg_value,fraudulent_or_not
+29462.72,Not Fraudulent
+22333.0,Not Fraudulent
+27375.96,Not Fraudulent
+15947.19,Not Fraudulent
+17764.85,Not Fraudulent
+26852.6,Not Fraudulent
+22627.04,Not Fraudulent
+29230.53,Not Fraudulent
+31453.15,He is Fraudulent
+24471.66,Not Fraudulent
+22774.06,Not Fraudulent
+17990.51,Not Fraudulent
+17295.25,Not Fraudulent
+25850.87,Not Fraudulent
+25318.47,Not Fraudulent
+26385.13,Not Fraudulent
+31197.47,He is Fraudulent
+16898.58,Not Fraudulent
+26474.38,Not Fraudulent
+23865.53,Not Fraudulent
+26073.82,Not Fraudulent
+23790.02,Not Fraudulent
+13072.2,Not Fraudulent
+30708.12,He is Fraudulent
+22729.01,Not Fraudulent
+20047.5,Not Fraudulent
+23345.54,Not Fraudulent
+22046.06,Not Fraudulent
+26247.33,Not Fraudulent
+29403.4,Not Fraudulent
+28382.0,Not Fraudulent
+31023.9,He is Fraudulent
+17815.53,Not Fraudulent
+22614.45,Not Fraudulent
+31317.24,He is Fraudulent
+24059.44,Not Fraudulent
+26708.18,Not Fraudulent
+21347.45,Not Fraudulent
+22878.32,Not Fraudulent
+20879.33,Not Fraudulent
+21993.84,Not Fraudulent
+29330.15,Not Fraudulent
+20923.95,Not Fraudulent
+34002.5,He is Fraudulent
+30817.34,He is Fraudulent
+28940.95,Not Fraudulent
+16919.55,Not Fraudulent
+24085.85,Not Fraudulent
+19992.26,Not Fraudulent
+26897.34,Not Fraudulent
+26157.51,Not Fraudulent
+24283.03,Not Fraudulent
+13574.92,Not Fraudulent
+17940.76,Not Fraudulent
+18569.08,Not Fraudulent
+21841.85,Not Fraudulent
+25129.65,Not Fraudulent
+24893.16,Not Fraudulent
+19549.77,Not Fraudulent
+20905.77,Not Fraudulent
+34764.77,He is Fraudulent
+22744.0,Not Fraudulent
+28386.49,Not Fraudulent
+30534.47,He is Fraudulent
+31174.47,He is Fraudulent
+20496.71,Not Fraudulent
+26595.91,Not Fraudulent
+33029.93,He is Fraudulent
+28010.6,Not Fraudulent
+20932.16,Not Fraudulent
+30166.79,He is Fraudulent
+27801.22,Not Fraudulent
+30326.3,He is Fraudulent
+25545.2,Not Fraudulent
+34364.79,He is Fraudulent
+27857.88,Not Fraudulent
+33039.16,He is Fraudulent
+19443.8,Not Fraudulent
+20978.78,Not Fraudulent
+24209.64,Not Fraudulent
+30614.24,He is Fraudulent
+21855.94,Not Fraudulent
+24458.77,Not Fraudulent
+19490.54,Not Fraudulent
+29848.22,Not Fraudulent
+26403.55,Not Fraudulent
+17664.28,Not Fraudulent
+15032.69,Not Fraudulent
+16475.51,Not Fraudulent
+25413.84,Not Fraudulent
+26971.48,Not Fraudulent
+26579.8,Not Fraudulent
+34512.59,He is Fraudulent
+24739.81,Not Fraudulent
+27326.62,Not Fraudulent
+30694.62,He is Fraudulent
+29976.05,Not Fraudulent
+21731.66,Not Fraudulent
+27038.64,Not Fraudulent
+22165.92,Not Fraudulent
+18289.47,Not Fraudulent
+16453.58,Not Fraudulent
+19973.07,Not Fraudulent
+25970.13,Not Fraudulent
+19936.17,Not Fraudulent
+23084.62,Not Fraudulent
+19648.28,Not Fraudulent
+32782.67,He is Fraudulent
+26399.2,Not Fraudulent
+28480.27,Not Fraudulent
+22441.84,Not Fraudulent
+24588.71,Not Fraudulent
+13170.28,Not Fraudulent
+19704.17,Not Fraudulent
+17381.22,Not Fraudulent
+28486.45,Not Fraudulent
+31850.18,He is Fraudulent
+28561.87,Not Fraudulent
+21994.62,Not Fraudulent
+15629.78,Not Fraudulent
+25233.4,Not Fraudulent
+24199.49,Not Fraudulent
+37445.01,He is Fraudulent
+26457.54,Not Fraudulent
+20001.75,Not Fraudulent
+30957.27,He is Fraudulent
+30139.88,He is Fraudulent
+30462.67,He is Fraudulent
+25732.34,Not Fraudulent
+27849.38,Not Fraudulent
+23841.56,Not Fraudulent
+17102.79,Not Fraudulent
+24045.64,Not Fraudulent
+28810.42,Not Fraudulent
+28500.77,Not Fraudulent
+26145.74,Not Fraudulent
+27283.9,Not Fraudulent
+32450.28,He is Fraudulent
+20549.22,Not Fraudulent
+23708.62,Not Fraudulent
+23753.39,Not Fraudulent
+29799.5,Not Fraudulent
+24941.55,Not Fraudulent
+23355.01,Not Fraudulent
+28113.31,Not Fraudulent
+35132.53,He is Fraudulent
+21730.12,Not Fraudulent
+20937.35,Not Fraudulent
+32630.81,He is Fraudulent
+28599.16,Not Fraudulent
+23775.51,Not Fraudulent
+18765.13,Not Fraudulent
+30619.84,He is Fraudulent
+24635.61,Not Fraudulent
+28316.86,Not Fraudulent
+29895.69,Not Fraudulent
+26296.89,Not Fraudulent
+20796.88,Not Fraudulent
+16603.14,Not Fraudulent
+22478.51,Not Fraudulent
+26590.16,Not Fraudulent
+22084.8,Not Fraudulent
+27351.42,Not Fraudulent
+24539.92,Not Fraudulent
+28901.7,Not Fraudulent
+21981.04,Not Fraudulent
+20523.3,Not Fraudulent
+23242.73,Not Fraudulent
+20912.77,Not Fraudulent
+36759.68,He is Fraudulent
+15862.63,Not Fraudulent
+18984.76,Not Fraudulent
+30980.46,He is Fraudulent
+31279.24,He is Fraudulent
+24240.67,Not Fraudulent
+21406.85,Not Fraudulent
+15095.08,Not Fraudulent
+19288.69,Not Fraudulent
+24641.75,Not Fraudulent
+23202.49,Not Fraudulent
+27153.38,Not Fraudulent
+27754.42,Not Fraudulent
+27028.62,Not Fraudulent
+19021.35,Not Fraudulent
+31272.43,He is Fraudulent
+14501.23,Not Fraudulent
+29873.45,Not Fraudulent
+30028.19,He is Fraudulent
+25957.79,Not Fraudulent
+23129.68,Not Fraudulent
+31395.26,He is Fraudulent
+27574.47,Not Fraudulent
+18862.17,Not Fraudulent
+19731.72,Not Fraudulent
+31476.89,He is Fraudulent
+16888.53,Not Fraudulent
+23072.08,Not Fraudulent
+24964.97,Not Fraudulent
+21274.98,Not Fraudulent
+25223.15,Not Fraudulent
+22338.26,Not Fraudulent
+27664.21,Not Fraudulent
+23854.36,Not Fraudulent
+35306.74,He is Fraudulent
+24733.04,Not Fraudulent
+30418.04,He is Fraudulent
+23601.68,Not Fraudulent
+28609.32,Not Fraudulent
+31607.42,He is Fraudulent
+28152.6,Not Fraudulent
+27835.13,Not Fraudulent
+30869.25,He is Fraudulent
+30526.93,He is Fraudulent
+18938.63,Not Fraudulent
+25918.7,Not Fraudulent
+20662.88,Not Fraudulent
+28296.61,Not Fraudulent
+20742.88,Not Fraudulent
+38367.92,He is Fraudulent
+25645.44,Not Fraudulent
+26672.85,Not Fraudulent
+24245.39,Not Fraudulent
+32819.77,He is Fraudulent
+27969.29,Not Fraudulent
+26110.62,Not Fraudulent
+28457.71,Not Fraudulent
+30070.32,He is Fraudulent
+26109.21,Not Fraudulent
+26925.11,Not Fraudulent
+24004.67,Not Fraudulent
+19821.13,Not Fraudulent
+21152.75,Not Fraudulent
+23402.98,Not Fraudulent
+30200.56,He is Fraudulent
+22329.73,Not Fraudulent
+29653.0,Not Fraudulent
+9902.96,Not Fraudulent
+17263.93,Not Fraudulent
+25058.18,Not Fraudulent
+24925.0,Not Fraudulent
+28163.22,Not Fraudulent
+28594.77,Not Fraudulent
+18372.27,Not Fraudulent
+25562.5,Not Fraudulent
+25595.18,Not Fraudulent
+19427.94,Not Fraudulent
+34484.86,He is Fraudulent
+24216.28,Not Fraudulent
+26794.34,Not Fraudulent
+16785.56,Not Fraudulent
+24526.79,Not Fraudulent
+28329.95,Not Fraudulent
+23363.35,Not Fraudulent
+17591.93,Not Fraudulent
+29653.58,Not Fraudulent
+15036.22,Not Fraudulent
+33878.28,He is Fraudulent
+31297.48,He is Fraudulent
+27079.02,Not Fraudulent
+21422.14,Not Fraudulent
+33132.59,He is Fraudulent
+20131.34,Not Fraudulent
+26663.72,Not Fraudulent
+26332.3,Not Fraudulent
+23948.43,Not Fraudulent
+23723.06,Not Fraudulent
+31544.37,He is Fraudulent
+31647.39,He is Fraudulent
+28180.96,Not Fraudulent
+35379.06,He is Fraudulent
+25471.99,Not Fraudulent
+23089.32,Not Fraudulent
+26959.19,Not Fraudulent
+21430.65,Not Fraudulent
+22549.44,Not Fraudulent
+23671.22,Not Fraudulent
+28819.9,Not Fraudulent
+30570.62,He is Fraudulent
+27417.75,Not Fraudulent
+24355.78,Not Fraudulent
+28455.0,Not Fraudulent
+26427.15,Not Fraudulent
+27273.31,Not Fraudulent
+26899.88,Not Fraudulent
+31755.32,He is Fraudulent
+24632.78,Not Fraudulent
+29813.2,Not Fraudulent
+25470.54,Not Fraudulent
+32489.15,He is Fraudulent
+25059.46,Not Fraudulent
+25490.49,Not Fraudulent
+30834.96,He is Fraudulent
+26976.31,Not Fraudulent
+18769.03,Not Fraudulent
+22169.17,Not Fraudulent
+30367.59,He is Fraudulent
+28674.41,Not Fraudulent
+14493.32,Not Fraudulent
+30312.67,He is Fraudulent
+19304.7,Not Fraudulent
+32018.93,He is Fraudulent
+24367.52,Not Fraudulent
+19458.87,Not Fraudulent
+15196.77,Not Fraudulent
+33296.44,He is Fraudulent
+26278.96,Not Fraudulent
+7036.53,Not Fraudulent
+21965.32,Not Fraudulent
+27959.51,Not Fraudulent
+19707.57,Not Fraudulent
+28641.24,Not Fraudulent
+28237.11,Not Fraudulent
+38999.95,He is Fraudulent
+23295.91,Not Fraudulent
+21774.6,Not Fraudulent
+21986.39,Not Fraudulent
+25165.53,Not Fraudulent
+17863.3,Not Fraudulent
+23686.23,Not Fraudulent
+20392.69,Not Fraudulent
+27484.68,Not Fraudulent
+24257.84,Not Fraudulent
+16140.18,Not Fraudulent
+30807.95,He is Fraudulent
+27491.53,Not Fraudulent
+30737.82,He is Fraudulent
+23910.63,Not Fraudulent
+21274.74,Not Fraudulent
+26554.51,Not Fraudulent
+26810.04,Not Fraudulent
+23341.46,Not Fraudulent
+23335.51,Not Fraudulent
+29279.18,Not Fraudulent
+34445.19,He is Fraudulent
+27679.02,Not Fraudulent
+31057.43,He is Fraudulent
+23242.13,Not Fraudulent
+24560.82,Not Fraudulent
+18077.05,Not Fraudulent
+28484.59,Not Fraudulent
+16070.97,Not Fraudulent
+25117.19,Not Fraudulent
+30077.95,He is Fraudulent
+19218.55,Not Fraudulent
+20450.16,Not Fraudulent
+21095.62,Not Fraudulent
+26560.86,Not Fraudulent
+26860.45,Not Fraudulent
+18453.09,Not Fraudulent
+23253.43,Not Fraudulent
+28347.52,Not Fraudulent
+22536.8,Not Fraudulent
+31782.47,He is Fraudulent
+14786.6,Not Fraudulent
+17181.53,Not Fraudulent
+27992.62,Not Fraudulent
+29314.81,Not Fraudulent
+25653.77,Not Fraudulent
+26610.57,Not Fraudulent
+26856.71,Not Fraudulent
+34130.2,He is Fraudulent
+20508.79,Not Fraudulent
+28361.46,Not Fraudulent
+19381.49,Not Fraudulent
+24932.83,Not Fraudulent
+25958.36,Not Fraudulent
+30749.03,He is Fraudulent
+25238.08,Not Fraudulent
+24975.82,Not Fraudulent
+24133.3,Not Fraudulent
+18121.28,Not Fraudulent
+17273.82,Not Fraudulent
+29132.02,Not Fraudulent
+26434.62,Not Fraudulent
+22413.48,Not Fraudulent
+22989.79,Not Fraudulent
+26413.53,Not Fraudulent
+22605.74,Not Fraudulent
+26814.33,Not Fraudulent
+24482.28,Not Fraudulent
+22512.86,Not Fraudulent
+30197.43,He is Fraudulent
+23938.37,Not Fraudulent
+22567.84,Not Fraudulent
+22579.09,Not Fraudulent
+21490.81,Not Fraudulent
+27261.56,Not Fraudulent
+22101.14,Not Fraudulent
+24066.08,Not Fraudulent
+19499.14,Not Fraudulent
+18672.42,Not Fraudulent
+24477.71,Not Fraudulent
+12679.22,Not Fraudulent
+31303.97,He is Fraudulent
+23332.03,Not Fraudulent
+24825.6,Not Fraudulent
+31773.22,He is Fraudulent
+26621.19,Not Fraudulent
+22851.76,Not Fraudulent
+22976.93,Not Fraudulent
+25783.86,Not Fraudulent
+24754.21,Not Fraudulent
+21852.36,Not Fraudulent
+20836.83,Not Fraudulent
+19569.04,Not Fraudulent
+29120.81,Not Fraudulent
+23462.39,Not Fraudulent
+28889.39,Not Fraudulent
+25520.88,Not Fraudulent
+27377.62,Not Fraudulent
+22268.51,Not Fraudulent
+23525.15,Not Fraudulent
+23180.76,Not Fraudulent
+23133.35,Not Fraudulent
+23016.01,Not Fraudulent
+25578.17,Not Fraudulent
+25393.37,Not Fraudulent
+32867.27,He is Fraudulent
+24605.9,Not Fraudulent
+20623.69,Not Fraudulent
+35188.92,He is Fraudulent
+29252.16,Not Fraudulent
+31258.72,He is Fraudulent
+19009.75,Not Fraudulent
+22961.18,Not Fraudulent
+21802.81,Not Fraudulent
+16951.68,Not Fraudulent
+20848.47,Not Fraudulent
+10501.73,Not Fraudulent
+30262.78,He is Fraudulent
+38330.92,He is Fraudulent
+31312.71,He is Fraudulent
+29986.16,Not Fraudulent
+18467.84,Not Fraudulent
+24138.96,Not Fraudulent
+28224.91,Not Fraudulent
+24033.6,Not Fraudulent
+18337.43,Not Fraudulent
+27832.05,Not Fraudulent
+28683.5,Not Fraudulent
+25251.58,Not Fraudulent
+27574.07,Not Fraudulent
+16817.01,Not Fraudulent
+27412.38,Not Fraudulent
+15469.66,Not Fraudulent
+32675.92,He is Fraudulent
+25235.46,Not Fraudulent
+19434.94,Not Fraudulent
+23414.29,Not Fraudulent
+18697.56,Not Fraudulent
+26946.58,Not Fraudulent
+25845.24,Not Fraudulent
+29616.7,Not Fraudulent
+20251.24,Not Fraudulent
+19344.97,Not Fraudulent
+18769.0,Not Fraudulent
+22819.0,Not Fraudulent
+27708.16,Not Fraudulent
+23964.72,Not Fraudulent
+25272.96,Not Fraudulent
+15624.75,Not Fraudulent
+22661.57,Not Fraudulent
+20314.92,Not Fraudulent
+29333.87,Not Fraudulent
+24734.97,Not Fraudulent
+23046.56,Not Fraudulent
+21763.95,Not Fraudulent
+29473.36,Not Fraudulent
+24659.84,Not Fraudulent
+27933.54,Not Fraudulent
+25442.67,Not Fraudulent
+16718.54,Not Fraudulent
+24972.51,Not Fraudulent
+27324.73,Not Fraudulent
+31965.84,He is Fraudulent
+18555.07,Not Fraudulent
+21203.48,Not Fraudulent
+22784.12,Not Fraudulent
+25636.75,Not Fraudulent
+21941.25,Not Fraudulent
+24947.41,Not Fraudulent
+26733.17,Not Fraudulent
+25697.84,Not Fraudulent
+21456.35,Not Fraudulent
+29017.1,Not Fraudulent
+28159.5,Not Fraudulent
+23967.35,Not Fraudulent
+27371.85,Not Fraudulent
+30749.77,He is Fraudulent
+22775.53,Not Fraudulent
+30434.24,He is Fraudulent
+34354.37,He is Fraudulent
+26333.85,Not Fraudulent
+25102.91,Not Fraudulent
+27264.54,Not Fraudulent
+28856.18,Not Fraudulent
+30704.57,He is Fraudulent
+27436.7,Not Fraudulent
+29175.25,Not Fraudulent
+23046.34,Not Fraudulent
